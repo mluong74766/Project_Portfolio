@@ -1,2 +1,2 @@
 # Project_Portfolio
-The repository serves as a comprehensive portfolio showcasing all of my personal projects related to data analysis and programming. It encompasses a diverse range of projects, each demonstrating my proficiency in various data analysis techniques and programming languages
+Covid_Project_.sql- leveraged SQL to analyze COVID-19 data, extracting valuable insights from various datasets. I designed optimized queries to explore trends, infection rates, and regional impacts, helping to inform public health strategies and decision-making. Through database manipulation and querying, I contributed to a deeper understanding of the pandemic's dynamics and its effects on different populations.
